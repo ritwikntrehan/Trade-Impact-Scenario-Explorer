@@ -1,0 +1,14 @@
+[
+  {"id":"a001","sourceCountryCode":"MX","industryId":"automotive","alternativeCountryCode":"CA","rationale":"Integrated North American logistics and standards alignment.","relativeStrengthLabel":"strong","caveats":"Capacity varies by component complexity."},
+  {"id":"a002","sourceCountryCode":"MX","industryId":"automotive","alternativeCountryCode":"KR","rationale":"Strong electronics-heavy auto subcomponents.","relativeStrengthLabel":"moderate","caveats":"Longer lead times and shipping costs."},
+  {"id":"a003","sourceCountryCode":"MX","industryId":"automotive","alternativeCountryCode":"IN","rationale":"Expanding automotive component base.","relativeStrengthLabel":"emerging","caveats":"Supplier qualification cycles may be longer."},
+  {"id":"a004","sourceCountryCode":"CN","industryId":"electronics","alternativeCountryCode":"VN","rationale":"High growth contract manufacturing footprint.","relativeStrengthLabel":"strong","caveats":"Upstream dependency can remain China-linked."},
+  {"id":"a005","sourceCountryCode":"CN","industryId":"electronics","alternativeCountryCode":"KR","rationale":"Advanced component capability.","relativeStrengthLabel":"moderate","caveats":"Premium pricing in select segments."},
+  {"id":"a006","sourceCountryCode":"CN","industryId":"electronics","alternativeCountryCode":"IN","rationale":"Scale-up momentum in electronics assembly.","relativeStrengthLabel":"emerging","caveats":"Infrastructure and consistency vary by region."},
+  {"id":"a007","sourceCountryCode":"CA","industryId":"metals","alternativeCountryCode":"DE","rationale":"High-grade specialty alloy supply.","relativeStrengthLabel":"moderate","caveats":"Higher landed cost profile."},
+  {"id":"a008","sourceCountryCode":"CA","industryId":"metals","alternativeCountryCode":"KR","rationale":"Reliable industrial materials chain.","relativeStrengthLabel":"moderate","caveats":"Shipping lead times for bulk inputs."},
+  {"id":"a009","sourceCountryCode":"DE","industryId":"industrial-machinery","alternativeCountryCode":"KR","rationale":"Advanced electromechanical capability.","relativeStrengthLabel":"strong","caveats":"Supplier transition overhead."},
+  {"id":"a010","sourceCountryCode":"DE","industryId":"industrial-machinery","alternativeCountryCode":"IN","rationale":"Cost-effective machinery subassemblies.","relativeStrengthLabel":"emerging","caveats":"Specification compliance may differ."},
+  {"id":"a011","sourceCountryCode":"IN","industryId":"chemicals","alternativeCountryCode":"CA","rationale":"Stable regulatory environment and feedstock access.","relativeStrengthLabel":"moderate","caveats":"Some specialty molecules remain limited."},
+  {"id":"a012","sourceCountryCode":"KR","industryId":"medical-devices","alternativeCountryCode":"DE","rationale":"Quality-focused precision manufacturing.","relativeStrengthLabel":"strong","caveats":"Qualification costs can be high."}
+]

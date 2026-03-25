@@ -1,0 +1,9 @@
+[
+  {"code":"CN","name":"China","region":"Asia","roleLabels":["high-volume manufacturing","electronics hub"],"notes":"Wide component depth with geopolitical sensitivity."},
+  {"code":"MX","name":"Mexico","region":"North America","roleLabels":["nearshoring base","automotive integration"],"notes":"Strong USMCA-linked production footprint."},
+  {"code":"CA","name":"Canada","region":"North America","roleLabels":["metals and energy","integrated manufacturing"],"notes":"High policy alignment with U.S. market."},
+  {"code":"DE","name":"Germany","region":"Europe","roleLabels":["advanced machinery","precision engineering"],"notes":"Premium capability and quality benchmarks."},
+  {"code":"VN","name":"Vietnam","region":"Asia","roleLabels":["electronics assembly","export manufacturing"],"notes":"Growing alternative manufacturing base."},
+  {"code":"IN","name":"India","region":"Asia","roleLabels":["industrial diversification","chemical production"],"notes":"Scaling manufacturing with varied infrastructure."},
+  {"code":"KR","name":"South Korea","region":"Asia","roleLabels":["electronics and materials","advanced components"],"notes":"Strong technology supply chains."}
+]

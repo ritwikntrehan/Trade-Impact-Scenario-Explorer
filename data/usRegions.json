@@ -1,0 +1,8 @@
+[
+  {"id":"ohio","name":"Ohio","type":"State","relatedIndustries":["automotive","metals","industrial-machinery"],"relevanceNote":"Concentrated auto supplier and metal fabrication footprint."},
+  {"id":"michigan","name":"Michigan","type":"State","relatedIndustries":["automotive","electronics"],"relevanceNote":"Deep automotive OEM and tiered supplier ecosystem."},
+  {"id":"texas","name":"Texas","type":"State","relatedIndustries":["chemicals","electronics","industrial-machinery"],"relevanceNote":"Large trade gateway with chemical and electronics activity."},
+  {"id":"california","name":"California","type":"State","relatedIndustries":["electronics","medical-devices"],"relevanceNote":"Major port logistics and advanced manufacturing concentration."},
+  {"id":"pennsylvania","name":"Pennsylvania","type":"State","relatedIndustries":["metals","industrial-machinery","medical-devices"],"relevanceNote":"Legacy metals and machinery capacity with health-tech clusters."},
+  {"id":"southeast","name":"U.S. Southeast","type":"Region","relatedIndustries":["automotive","chemicals","medical-devices"],"relevanceNote":"Expanding assembly and distribution networks for traded goods."}
+]
